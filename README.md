@@ -1,3 +1,7 @@
+npm run start - this will run both the server and react together because of concurrently installed.
+npm run server - nodemon npm is installed for dev use
+npm run react - run react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
